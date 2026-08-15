@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me -> 
 <br>Languages: Java • JavaScript • Python <br>Expertise : Backend • Cloud • GSAP 👨‍💻<br>Preferred OS: Linux 🐧<br>Japanese Language Learner🗾<br>あなたは十分です 🫵❤️<br>
 
 
