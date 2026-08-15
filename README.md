@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Krishna Singh Hada 👋</h1>
+<h1 align="center">Hi There, I'm Krishna Singh Hada 👋</h1>
 <p align="center">
-  <i>(or you can call me <b>anz1rk</b> / <b>クリシュナ</b>)</i>
+  <i>(Or You Can Call Me <b>anz1rK</b> / <b>クリシュナ</b>)</i>
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-singh-hada-002b13381/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
+  <a href="https://leetcode.com/u/anz1rk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  &nbsp;
   <a href="mailto:krishnahada2212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -24,7 +26,7 @@
 - 🛠️ **Core Focus**: Backend Architecture, Cloud Services, and Creative Frontend with GSAP
 - 🐧 **Environment**: Linux & Windows
 - 🌐 **Languages**: **Java** *(Primary)* • JavaScript • Python
-- 🎯 **Goals**: Mastering Japanese & sharpening algorithmic problem-solving skills
+- 🎯 **Goals**: Mastering Japanese Language & sharpening algorithmic problem-solving skills
 
 ---
 
